@@ -13,6 +13,6 @@ Programming interface: C# & VB.NET
 ## License & legal terms
 Z0C protocol is licensed under the MIT License.
 
-PROBOTEK and George Delaportas are the IP owners of Z0C. Z0C is a proprietary protocol and software library. PROBOTEK provides an open API interface for programmers as is and takes no responsibility from misuse by third parties. Any form of reverse engineering is prohibited. In case of infringement, ProboTEK will take legal action against whoever is responsible.
+PROBOTEK and George Delaportas are the IP owners of Z0C. Z0C is a proprietary protocol and software library. PROBOTEK provides an open API interface for programmers as is and takes no responsibility from misuse by third parties. Any form of reverse engineering is prohibited. In case of infringement, PROBOTEK will take legal action against whoever is responsible.
 
 Copyright (C) 2019 - PROBOTEK
